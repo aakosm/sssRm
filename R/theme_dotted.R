@@ -4,7 +4,7 @@
 #' @export
 #'
 #' @examples
-#' library(ggplot2)
+#'library(ggplot2)
 #'
 #' p <- ggplot(mtcars, aes(mpg, hp)) + geom_point()
 #' p + theme_dotted()
